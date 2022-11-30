@@ -1,0 +1,18 @@
+
+//criar servidor com rotas
+npm install --save express;
+
+//receber dados de qualquer formulario dentro do express
+npm install --save body-parser;
+
+//ORM
+npm install --save sequelize;
+
+//reinicia o servidor a cada save
+npm install --save nodemon;
+
+//handlebars
+npm install --save express-handlebars;
+
+//mysql
+npm install --save mysql2;
