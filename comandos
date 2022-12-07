@@ -1,18 +1,45 @@
 
 //criar servidor com rotas
-npm install --save express;
+//npm install --save express;
+
+//sessoes
+//npm install --save express-session;
+//npm install --save connect-flash;
 
 //receber dados de qualquer formulario dentro do express
-npm install --save body-parser;
+//npm install --save body-parser;
 
 //ORM
-npm install --save sequelize;
+//npm install --save sequelize;
+
+//mongoose ORM para mongodb
+//npm install --save mongoose;
 
 //reinicia o servidor a cada save
-npm install --save nodemon;
+//npm install --save nodemon;
 
 //handlebars
-npm install --save express-handlebars;
+//npm install --save express-handlebars;
 
 //mysql
-npm install --save mysql2;
+//npm install --save mysql2;
+
+//hash senha
+//npm install --save bcryptjs;
+
+//passport login
+//npm install --save passport;
+//npm install --save passport-local;
+
+//-----------------------
+//UTILIZADOS
+//----------------------
+//npm install --save express;
+//npm install --save express-handlebars;
+//npm install --save mongoose;
+//npm install --save express-session;
+//npm install --save connect-flash;
+//npm install --save bcryptjs;
+//npm install --save passport;
+//npm install --save passport-local;
+
